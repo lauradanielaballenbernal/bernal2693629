@@ -18,5 +18,6 @@ print(f'El promedio es {suma/(cont-1)} números')
 print(f'El mayor es {mayor}')
 print(f'el menor es´{menor}' )
 
-
+#la funcion es en listar los numeros pedido y  sumarlos despues dividir y dar un promedio 
+#y mostrar cual es mayo o menor 
 
