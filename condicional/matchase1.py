@@ -14,3 +14,5 @@ match selector:
     case '4':
         print(num1/num2)
         
+#nos muestra las opciones suma resta adicion multiplicacion al escojer una de ellas
+#nos dara el resultado cojn el valor puesto anterior mente
