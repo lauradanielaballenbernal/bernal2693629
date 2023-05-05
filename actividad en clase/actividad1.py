@@ -7,4 +7,3 @@ for i in range(1, num + 1):
         divisores.append(i)
 
 print("Los divisores de", num, "son:", divisores)
-#miselanea
