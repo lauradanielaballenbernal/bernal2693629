@@ -8,3 +8,4 @@ while suma <= maximo:
     n += 1 
 
 print("El número mínimo de términos para superar el número máximo es:", n-1)
+#miselanea

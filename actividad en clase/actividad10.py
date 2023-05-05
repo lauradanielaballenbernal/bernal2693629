@@ -21,3 +21,4 @@ residuo = mayor
 
 print(f'El cociente es: {cociente}')
 print(f'El residuo es: {residuo}')
+#miselanea

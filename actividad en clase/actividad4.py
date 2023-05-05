@@ -12,3 +12,4 @@ for i in range(1, 1001):
           Perfect_Number.append(i)
           
 print("Hay", len(Perfect_Number), "números perfectos entre 1 y 1000, que son:", Perfect_Number)
+#miselanea

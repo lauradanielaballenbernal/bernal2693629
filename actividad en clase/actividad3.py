@@ -14,4 +14,4 @@ if NumeroPerfecto(num):
     print(" es un numero perfecto", num)
 else:
     print("No es un numero perfecto", num)
-    
+    #miselanea

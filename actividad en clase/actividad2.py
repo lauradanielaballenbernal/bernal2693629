@@ -1,5 +1,5 @@
 numero = int(input("Ingresa un número entero positivo: "))
-
+#miselanea
 if numero > 1:
     es_primo = True
     for i in range(2, int(numero/2)+1):

@@ -14,3 +14,4 @@ for i in range(1, 1001):
 
 print("Hay", len(primos), "números primos entre 1 y 1000, que son:", primos)
 
+#miselanea

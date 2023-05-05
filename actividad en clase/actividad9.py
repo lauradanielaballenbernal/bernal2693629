@@ -8,3 +8,4 @@ while n > 0:
     n -= 1 
 
 print("El resultado de", x, "elevado a", n, "es:", resultado)
+#miselanea
