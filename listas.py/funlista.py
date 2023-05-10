@@ -43,3 +43,4 @@ print("La suma de la lista es:", sumalista(l1))
 print("El promedio de la lista es:", round(promediolista(l1),2))
 print("El número mayor en la lista es:", resultado)
 print("El número menor en la lista es:", resultado2)
+#terminar
