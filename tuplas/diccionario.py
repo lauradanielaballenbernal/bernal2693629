@@ -15,3 +15,4 @@ for color in colors:
         print(color, "es", diccionary[color])
     else:
         print(color, "no esta en el diccionario")
+        #lbS

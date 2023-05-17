@@ -9,4 +9,4 @@ print(lista)
 tupla=1,4,5,7
 tupla=(tam)
 tupla=(lista,)
-#tupla
+#tupla2
