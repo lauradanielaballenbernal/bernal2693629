@@ -38,6 +38,7 @@ def menor(lista):
 
 resultado2 = menor(l1)
 
+<<<<<<< HEAD
 import random
 #ejemplo 1
 def llenarLista(tam,rango):
@@ -82,3 +83,11 @@ l2=llenarLista(5,10)
 print("lista 1:",l1,"la suma es:",sumaLista(l1))
 print("lista 2:",l2,"la suma es:",sumaLista(l2))
 print("la suma mas alta esta en la lista :",(l1))
+=======
+print("Lista generada:", l1)
+print("La suma de la lista es:", sumalista(l1))
+print("El promedio de la lista es:", round(promediolista(l1),2))
+print("El número mayor en la lista es:", resultado)
+print("El número menor en la lista es:", resultado2)
+#terminar
+>>>>>>> 03b0ae4f490c57a9a6b1971144de75e84e164ea1
