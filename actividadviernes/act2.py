@@ -73,8 +73,8 @@ while opcion != 7:
         print("Animales en español (Diccionario 1):", tupla_espanol_d1)
         print("Animales en inglés (Diccionario 1):", tupla_ingles_d1)
     elif opcion == 6:
-        print("Animales en español (Diccionario 2):", tupla_espanol_d2)
-        print("Animales en inglés (Diccionario 2):", tupla_ingles_d2)
+        print("Animales en ingles (Diccionario 2):", tupla_espanol_d2)
+        print("Animales en español (Diccionario 2):", tupla_ingles_d2)
     elif opcion == 7:
         print("Saliendo del menú")
     else:
