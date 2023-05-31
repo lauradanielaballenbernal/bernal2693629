@@ -10,3 +10,4 @@ tupla=1,4,5,7
 tupla=(tam)
 tupla=(lista,)
 #tupla2
+#si funciono paquete de imbachi
