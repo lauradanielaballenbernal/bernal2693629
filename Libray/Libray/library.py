@@ -1,0 +1,30 @@
+from User import User
+from Dept import Dept
+from staff import Account
+from student import Class
+from book import Book
+
+user = User(input("Please enter your name: "), input("Please enter your ID: "))
+
+print(user.getName())
+print(user.getId())
+user.verification()
+user.checkAccount()
+
+account = Account(input("Please enter your name: "), input("Please enter your ID: "))
+
+account.addDept(Dept(input("Please enter the department name: "), input("Please enter the department type: ")))
+
+class_name = input("Please enter the class name: ")
+class_obj = Class(user.getName(), user.getId(), class_name)
+
+class_obj.addClass(class_name)
+class_obj.setClass()
+
+user.bookInfo()
+
+account.getDept()
+
+Book.bookdetails(user.bookInfo)
+
+
